@@ -1,0 +1,5 @@
+{
+  "name": "AI School Timetable Planner",
+  "description": "An intelligent school timetable generator and scheduling assistant powered by Gemini. Input your teachers, subjects, classes, and constraints to generate a conflict-free, optimized, and editable schedule. Export the final timetable to PDF.",
+  "requestFramePermissions": []
+}
